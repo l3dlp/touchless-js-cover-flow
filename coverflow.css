@@ -64,12 +64,12 @@
   top:0;
   right:0;
   background:url(//cdn.gestures.io/img/enhancedby.png) no-repeat center center;
-  width:137px;
-  height:137px;
+  width:150px;
+  height:150px;
   z-index:101;
 }
 #enhancedby a {
   display:block;
-  width:137px;
-  height:137px;
+  width:150px;
+  height:150px;
 }
